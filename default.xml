@@ -123,5 +123,5 @@
   <project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-5.1" />
   
   <!-- Device -->
-  <project path="device/zte/achill" name="andrewgreen5610/recovery_zte_achill" remote="github" revision="twrp" />
+  <project path="device/zte/achill" name="andrewgreen5610/android_device_zte_achill" remote="github" revision="twrp" />
 </manifest>
